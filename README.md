@@ -67,4 +67,8 @@ You are to build a small program that can be run from the command line as descri
   framework might not be suitable for our review (e.g. less common ones such as 
   Clojure, Fortran, Elixir, etc.). Please clarify with your interviewer first.
 
+# Acknowledgements
+
+* Word list adapter from https://github.com/dwyl/english-words (`words_alpha.txt`)
+
 **All the best!**
