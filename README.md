@@ -38,6 +38,31 @@ For instance, a run of this enhanced program may look like this:
 123
 ```
 
+# Addon 2
+If you reach this stage, add support for simple character wildcards, using the `?` character
+to represent "any alphabet".
+
+## Example
+
+For instance, a run of this enhanced program may look like this:
+
+```
+./pfxsearch b?n
+ban
+banana
+bananas
+:
+:
+benedict
+beneficial
+:
+bin
+binary
+:
+:
+```
+
+You get the idea.
 
 # Submission
 
