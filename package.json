@@ -1,0 +1,22 @@
+{
+  "name": "hiring-generalist-prefixsearch",
+  "version": "1.0.0",
+  "description": "josh interview prefix search cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshualo/HIRING-generalist-prefixsearch.git"
+  },
+  "author": "josh@joshualo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshualo/HIRING-generalist-prefixsearch/issues"
+  },
+  "homepage": "https://github.com/joshualo/HIRING-generalist-prefixsearch#readme",
+  "dependencies": {
+    "commander": "^3.0.0"
+  }
+}
